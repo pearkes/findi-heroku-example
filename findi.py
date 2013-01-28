@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+"""
+For license, please see https://github.com/pearkes/findi#license
+"""
 import urllib
 import urllib2
 import datetime
