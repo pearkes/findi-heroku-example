@@ -76,7 +76,7 @@ Your browser will open, and you may have to log in to Heroku.
 In the scheduler mangagement interface, add a hourly job called
 `python record_location.py`.
 
-![Scheduler Interface]()
+![Scheduler Interface](https://f.cloud.github.com/assets/846194/102117/de8641c0-690f-11e2-9725-e6b4a18df0a9.png)
 
 ### Test Drive
 
