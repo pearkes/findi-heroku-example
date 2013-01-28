@@ -1,3 +1,10 @@
+"""
+Running this file will dispatch a request to the Find My iPhone API
+and write the resulting location into a database.
+
+The credentials to connect to Apple, and the database url should
+be present in the environment as environment variables.
+"""
 import os
 
 from datetime import datetime
@@ -27,7 +34,7 @@ class Location(Base):
     __tablename__ = 'locations'
 
     id = Column(Integer, primary_key=True)
-    latitude = Column(String, )
+    latitude = Column(String)
     longitude = Column(String)
     date = Column(String, default=datetime.utcnow,
                   onupdate=datetime.utcnow)
