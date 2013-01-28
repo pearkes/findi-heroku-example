@@ -86,6 +86,11 @@ In the scheduler mangagement interface, add a hourly job called
 You should see a message letting you know the location was sucesfully
 stored. If not, feel free to [open an issue](https://github.com/pearkes/findi-heroku-example/issues/new).
 
+## Check Your Work
+
+It'd be worth logging back in and making sure you're storing the data
+properly, and that the locations seem correct.
+
 ## License
 
 Copyright (c) 2013 Jack Pearkes.
