@@ -88,8 +88,8 @@ stored. If not, feel free to [open an issue](https://github.com/pearkes/findi-he
 
 ## Check Your Work
 
-It'd be worth logging back in and making sure you're storing the data
-properly, and that the locations seem correct.
+It'd be worth checking back in and making sure you're storing the data
+properly in a few days, and that the locations seem correct.
 
 ## License
 
